@@ -67,4 +67,5 @@ RegisterNumber: 25005617
 
 
 **RESULTS**
+
 Thus the SISO Shift Register using verilog is validated and the logic diagrams are designedd the truth table is verified.
